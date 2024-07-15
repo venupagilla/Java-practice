@@ -1,3 +1,4 @@
+//This solution's time complexity is O(m+n)
 import java.util.Arrays;
 public class BinarySearchIn2dArray {
     public static void main(String args[]){
